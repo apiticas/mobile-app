@@ -1,1 +1,2 @@
-My first Mobile Application.
+Example of Mobile App
+=====================
